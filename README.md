@@ -3,6 +3,8 @@
 Nama = Mitra Marona Putra Gurusinga
 BATCH HCK 006
 Full Time Data Science
+# Deployment
+https://huggingface.co/spaces/mitrampg/FinalProject
 # Dataset
 
 Pada proyek ini, saya mengambil dataset dari website UCI Machine Learning Repository yang dapat diakses melalui laman berikut: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
