@@ -70,21 +70,33 @@ Klaster 1 (Konsumen dengan Peningkatan Konsumsi dan Potensi Kesulitan Keuangan):
 * ***Total Payment***: Pembayaran total yang moderat dengan variasi pembayaran yang lebih konsisten.
   
 * ***Total Bill***: Tagihan moderat namun menunjukkan potensi akumulasi hutang.
+  
 * ***Trend Payment & Bill***: Kenaikan yang konsisten pada tren pembayaran dan tagihan. Namun perlu diperhatikan dengan tagihan yang lebih besar dari klaster 2, mereka memiliki pembayaran yang lebih rendah dari klaster 2.
+  
 * ***Duly Payer***: Klaster ini tidak memiliki nasabah yang membayar tepat waktu terus-menerus selama 6 bulan
+  
 * ***Delayed_Payments***: Memiliki karakteristik yang sama dengan klaster 0, di mana terlalu banyak nasabah yang menunda pembayaran, dan bahkan dengan jumlah nasabah yang lebih banyak di klaster ini dibanding dengan klaster 0.
+  
 * ***Sequential_Delay***: Ada risiko keterlambatan berurutan yang perlu diperhatikan.
+  
 * ***Recent Bill to Limit_amount***: Mereka menggunakan batas kredit sama dengan klaster 0 namun dengan jumlah yang lebih sedikit.
 
 Klaster 2 (Konsumen Stabil dan Dapat Diandalkan):
 
 * ***Utilization Ratio***: Penggunaan kredit yang rendah menunjukkan perilaku keuangan yang konservatif.
+  
 * ***Total Payment***: Pembayaran yang lebih rendah namun konsisten.
+  
 * ***Total Bill***: Tagihan rendah menunjukkan penggunaan kredit yang lebih jarang atau hati-hati.
+  
 * ***Trend Payment & Bill***: Stabilitas dalam penggunaan kredit dan pembayaran menunjukkan risiko rendah.
+  
 * ***Duly Payer***: Memiliki 22% nasabah yang merupakan pembayar tepat waktu selama 6 bulan berturut
+  
 * ***Delayed_Payments***: Risiko keterlambatan mungkin rendah di klaster ini.
+  
 * ***Sequential_Delay***: Keterlambatan berurutan mungkin jarang terjadi, menunjukkan manajemen keuangan yang baik.
+  
 * ***Recent Bill to Limit_amount***: Mereka memiliki tagihan terbaru yang relatif kecil dibandingkan dengan batas kredit mereka, menunjukkan perilaku keuangan yang bijaksana.
 
 
