@@ -1,6 +1,7 @@
 # Final_Project
 # Deployment
-https://huggingface.co/spaces/mitrampg/FinalProject
+Here is the link for the app deployment: https://bit.ly/cc_clustering_deploy
+
 # Dataset
 
 Pada proyek ini, saya mengambil dataset dari website UCI Machine Learning Repository yang dapat diakses melalui laman berikut: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
